@@ -1,0 +1,39 @@
+intended_college_major,test_takers,percent,total,reading_writing,math,is_stem
+"Agriculture, AgricultureOperations, and Related Sciences",24913,0.01,977,496,481,False
+Architecture and Related Services,28988,0.02,1047,520,527,False
+"Area, Ethnic, Cultural, and Gender Studies",2629,0.0,1040,536,504,False
+Biological and Biomedical Sciences,155834,0.08,1139,572,566,True
+"Business, Management, Marketing, and Related Support Services",221523,0.12,1072,534,537,False
+"Communication, Journalism, and Related Programs",36332,0.02,1069,550,519,False
+Computer and Information Sciences and Support Services,79736,0.04,1156,571,585,True
+"Construction Trades, General",2500,0.0,919,459,460,False
+Education,71882,0.04,1022,519,503,False
+Engineering,194127,0.11,1139,559,581,True
+Engineering Technologies/Technicians,33595,0.02,1041,512,528,True
+English Language and Literature/Letters,16233,0.01,1119,585,533,False
+Family and Consumer Sciences/Human Sciences,6469,0.0,953,484,469,False
+"Foreign Languages and Literatures, General",9936,0.01,1102,566,536,False
+Health Professions and related Clinical Sciences,331026,0.18,1048,529,518,True
+"History, General",12611,0.01,1090,563,527,False
+"Legal Studies, General",35788,0.02,1104,564,540,False
+"Liberal Arts and Sciences, General Studies and Humanities",8611,0.0,1140,584,556,False
+Library Science/Librarianship,283,0.0,1105,577,527,False
+Mathematics and Statistics,16508,0.01,1242,597,646,True
+Mechanic and Repair Technologies/Technicians,6592,0.0,916,458,458,True
+Military Technologies,7448,0.0,984,498,486,True
+Multi/Interdisciplinary Studies,2979,0.0,1155,581,574,False
+Natural resources and Conservation,10147,0.01,1104,562,543,False
+"Parks, Recreation and Leisure Studies",13039,0.01,960,482,478,False
+"Personal and Culinary Services, General",6668,0.0,929,474,456,False
+Philosophy and Religious Studies,3381,0.0,1120,572,548,False
+Physical Sciences,26318,0.01,1203,597,606,True
+Precision Production,319,0.0,932,466,466,False
+"Psychology, General",75626,0.04,1064,546,518,True
+Public Administration and Social Service Professions,7852,0.0,1001,513,488,False
+Security and Protective Services,68177,0.04,975,495,479,False
+Social Sciences,33356,0.02,1164,594,570,False
+Theology and Religious Vocations,1991,0.0,1096,561,535,False
+Transportation and Materials Moving,1105,0.0,1019,511,508,False
+"Visual and Performing Arts, General",130642,0.07,1045,536,510,False
+Other,26888,0.01,963,488,476,False
+Undecided,126939,0.07,1069,538,532,False
